@@ -5,10 +5,7 @@
 <!-- Typing SVG -->
 <p align="center">
     <a href="https://github.com/AmishaDev123">
-        <img align="center"
-        src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&lines=HI!!+I+am+Black+Dragon%20+%20Official+..."
-            alt="Typing SVG"
-        />
+        <img align="center" src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&lines=HI!!+This+is+Dark+Dragon%20+%20Official+..." alt="Typing SVG"/>
     </a>
 </p>                                
  
@@ -33,22 +30,19 @@
 
 <p align="center">
   <a href="https://github.com/AmishaDev123">
-    <img src="https://komarev.com/ghpvc/?username=AmishaDev123&label=Profile%200views&color=0000FF&label=Profile+Views&style=plastic">
+    <img src="https://img.shields.io/github/stars/AmishaDev123?style=plastic&label=Profile+Views&color=0000FF">
 </a>
   <a href="https://github.com/AmishaDev123?tab=stars">
-    <img src="https://img.shields.io/github/Diegoson?color=0000FF&label=Stars&style=plastic">
+    <img src="https://img.shields.io/github/stars/AmishaDev123?style=plastic&label=Stars&color=0000FF">
 
   </a>
   <a href="https://github.com/AmishaDev123?tab=followers">
-    <img src="https://img.shields.io/github/followers/Diegoson?color=0000FF&label=Followers&style=plastic">
+    <img src="https://img.shields.io/github/stars/AmishaDev123?style=plastic&label=Followers&color=0000FF">
 </br>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 - <h2 align="left">MY GITHUB STATUS</h2>
-
-  <img src="https://activity-graph.herokuapp.com/graph?username=AmishaDev123&amp;bg_color=000000&amp;color=4fff67&amp;line=4fff67&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="GitHub Activity Graph">
-  </div>
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
